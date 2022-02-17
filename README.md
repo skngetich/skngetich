@@ -11,7 +11,8 @@ I'm Stephen Ng'etich, a fullstack engineer ,creative code and a self proclaimed 
 
 ## **📝 Latest Blog Posts and Projects**
 ---
-1. [Data analysis a sample survey secondary schools in Kenya donein 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
+1. [Data analysis of a survey of a sample secondary schools in Kenya done in 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
+2. [Deep learning project: Tomato disease classification using convolution Neural Network](https://github.com/skngetich/tomato-disease-classification)
 
 ## **Tool | Technologies | Frameworks I used**
 ---
