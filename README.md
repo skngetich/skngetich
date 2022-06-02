@@ -12,18 +12,17 @@ I'm Stephen Ng'etich, a fullstack engineer ,creative code and a self proclaimed 
 ## **📝 Latest Blog Posts and Projects**
 ---
 1. [Data analysis of a survey of a sample secondary schools in Kenya done in 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
-2. [Deep learning project: Tomato disease classification using convolution Neural Network](https://github.com/skngetich/tomato-disease-classification)
-
-## **Tool | Technologies | Frameworks I used**
+2. [Deep learning project: tomato disease classification using convolution neural network](https://github.com/skngetich/tomato-disease-classification)
+3. [Simple image editor - python GUI](https://github.com/skngetich/simple-image-editor)
+## **Tool | Technologies | Frameworks I use**
 ---
-
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
