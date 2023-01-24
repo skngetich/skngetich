@@ -1,12 +1,13 @@
 ![Stephen Ng'etich GitHub Banner](./assets/skngetich-banner-image.png)
 
-![Visits Badge](https://badges.pufler.dev/visits/skngetich/skngetich)
+![Visits Badge](![](https://komarev.com/ghpvc/?username=skngetich&label=PROFILE+VIEWS))
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/skngetich5)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/skngetich/)
 
 Hey there 👋
 
-I'm Stephen Ng'etich, a fullstack engineer ,creative code and a self proclaimed designer. My mission is to deliver on solutions that impact our daily lives.
+I'm Stephen Ng'etich, a fullstack engineer,DevOps engineer ,creative code and a self proclaimed designer.  
+My mission is to deliver on solutions that impact our daily lives.
 
 
 ## **📝 Latest Blog Posts and Projects**
