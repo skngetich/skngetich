@@ -3,10 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/skngetich5)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/skngetich/)
+[![LinkedIn Badge](https://img.shields.io/stackexchange/stackoverflow/r/7107170?color=green&logo=stackoverflow)](https://stackoverflow.com/users/7107170/stephen-ngetich)  
+
 
 Hey there 👋
 
-I'm Stephen Ng'etich, a fullstack engineer,DevOps engineer ,creative code and a self proclaimed designer.  
+I'm Stephen Ng'etich, a Software engineer,DevOps engineer ,creative coder and a self proclaimed designer.  
 My mission is to deliver on solutions that impact our daily lives.
 
 
@@ -15,6 +17,7 @@ My mission is to deliver on solutions that impact our daily lives.
 1. [Data analysis of a survey of a sample secondary schools in Kenya done in 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
 2. [Deep learning project: tomato disease classification using convolution neural network](https://github.com/skngetich/tomato-disease-classification)
 3. [Simple image editor - python GUI](https://github.com/skngetich/simple-image-editor)
+4. [Enhancing civil engagement and accountability of Kenyan parliament using topic modeling](https://github.com/skngetich/mwananchi-watch)  
 ## **Tool | Technologies | Frameworks I use**
 ---
 
