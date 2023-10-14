@@ -8,8 +8,8 @@
 
 Hey there 👋
 
-I'm Stephen Ng'etich, a Software engineer,DevOps engineer ,creative coder and a self proclaimed designer.  
-My mission is to deliver on solutions that impact our daily lives.
+I'm Stephen Ng'etich, a software engineer, DevOps engineer, creative coder and self-proclaimed designer.  
+My mission is to deliver solutions that improve our daily lives.
 
 
 ## **📝 Latest Blog Posts and Projects**
