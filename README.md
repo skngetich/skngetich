@@ -8,16 +8,18 @@
 
 Hey there 👋
 
-I'm Stephen Ng'etich, a software engineer, DevOps engineer, creative coder and self-proclaimed designer.  
+I'm Stephen Ng'etich, a creative software engineer building applications in the sports industry.  
 My mission is to deliver solutions that improve our daily lives.
 
 
 ## **📝 Latest Blog Posts and Projects**
 ---
-1. [Data analysis of a survey of a sample secondary schools in Kenya done in 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
-2. [Deep learning project: tomato disease classification using convolution neural network](https://github.com/skngetich/tomato-disease-classification)
-3. [Simple image editor - python GUI](https://github.com/skngetich/simple-image-editor)
-4. [Enhancing civil engagement and accountability of Kenyan parliament using topic modeling](https://github.com/skngetich/mwananchi-watch)  
+1. [Get 5 min shooting stats for basketball game](https://github.com/skngetich/fiveminstats)
+2. [Generate a FIBA scoresheet online](https://github.com/skngetich/fomuyakeykapu)
+3. [Data analysis of a survey of a sample secondary schools in Kenya done in 2019](https://github.com/skngetich/msc-dsa-mod-2/blob/main/sng'etich_assignment.ipynb)
+4. [Deep learning project: tomato disease classification using convolution neural network](https://github.com/skngetich/tomato-disease-classification)
+5. [Simple image editor - python GUI](https://github.com/skngetich/simple-image-editor)
+6. [Enhancing civil engagement and accountability of Kenyan parliament using topic modeling](https://github.com/skngetich/mwananchi-watch)  
 ## **Tool | Technologies | Frameworks I use**
 ---
 
